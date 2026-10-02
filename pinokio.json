@@ -1,0 +1,6 @@
+{
+  "title": "Television",
+  "description": "A visual workspace for your personal agent's documents, apps, and interactive artifacts.",
+  "icon": "icon.png",
+  "platform": ["darwin", "linux", "win32"]
+}
